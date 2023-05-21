@@ -1,5 +1,5 @@
 .DS_Store
-_config.yml
+# _config.yml
 node_modules
 npm-debug.log
 source/libs/noto-sans-kr
