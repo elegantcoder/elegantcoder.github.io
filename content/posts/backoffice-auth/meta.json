@@ -1,0 +1,19 @@
+{
+  "id": "backoffice-auth",
+  "title": "어느 스타트업의 백오피스 인증 구현기",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "titleImage": "backoffice_login.png",
+  "excerpt": "![백오피스 로그인 화면](/sites/default/files/backoffice_login.png &#8220;백오피스 로그인 화면&#8221;)\n스타트업에는 놓치지 않아야 할 여러 가지가 있다. 난 그 중 백오피스를 꽤 높은 순위에 둔다.\n백오피스를 가졌을 때의 장점은\n1. 서비스를 만들고 지표의 변화를 감지해 서비스를 개선하는 데 큰 도움이 된다.\n2.\n",
+  "categories": [
+    "dev"
+  ],
+  "tags": [
+    "Dev."
+  ],
+  "publishedDate": "2014-07-27T15:52:24",
+  "updatedAt": "2015-07-24T04:12:30",
+  "wordpressId": 88
+}

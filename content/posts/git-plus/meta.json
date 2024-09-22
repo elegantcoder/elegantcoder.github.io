@@ -1,0 +1,17 @@
+{
+  "id": "git-plus",
+  "title": "핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "titleImage": "git_plus_cover.png",
+  "excerpt": "2013년 핸드스튜디오와 연이 닿아 프로젝트를 함께 진행한 적이 있었다. 개인적으로 매우 잘 아는 유명한 회사이다 🙂 당시 핸드스튜디오는 Git 을 사내 버전 관리시스템으로 도입한 초기였고, 그 과정에서 도움이 되고싶어 사내강의를 자처했다. 당시 &#8220;svn 능력자를 위한 git 개념 가이드&#8221; 라는 아주 좋은 슬라이드가 있어 도입초기에는 이 슬라이드를 교안으로 강의를 진행했고, 이후 조금 더 잘 사용해보자는 의미에서 [&hellip;]\n",
+  "categories": [
+    "dev"
+  ],
+  "tags": [],
+  "publishedDate": "2015-04-04T15:17:50",
+  "updatedAt": "2015-07-24T04:12:05",
+  "wordpressId": 284
+}

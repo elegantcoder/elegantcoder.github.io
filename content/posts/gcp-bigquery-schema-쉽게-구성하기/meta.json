@@ -1,0 +1,20 @@
+{
+  "id": "gcp-bigquery-schema-%ec%89%bd%ea%b2%8c-%ea%b5%ac%ec%84%b1%ed%95%98%ea%b8%b0",
+  "title": "GCP BigQuery Schema 구성 팁",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "생성은 CSV를 통하면 편리하다. BigQuery의 테이블스키마는 생성할때 UI가 꽤 불편한 편이다. 그래서 텍스트로 편집 옵션이 있기도 하지만 타이핑하기 좋지 않은 신택스를 가지고 있어서 CSV업로드로 자동생성하는 편이 개인적으로는 가장 편했다. CSV 파일 업로드는 10MB까지만, 그 이상은 Cloud Storage 등에서 가져와야 한다. CSV가 다룰 수 있는 데이터 타입에는 한계가 있다. 예를들어 날짜시간 등을 사용하고자 하면 메뉴얼의 Limitation부분을 [&hellip;]\n",
+  "categories": [
+    "dev"
+  ],
+  "tags": [
+    "BigQuery",
+    "GCP",
+    "TIL"
+  ],
+  "publishedDate": "2020-02-12T02:25:04",
+  "updatedAt": "2020-02-12T17:23:55",
+  "wordpressId": 644
+}

@@ -1,0 +1,18 @@
+{
+  "id": "git-tips-1",
+  "title": "Git pull 시에 Merge branch .. 메시지 나오지 않도록 하기",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "## Git Pull 시에 머지 커밋하지 않기\n    $> git pull\n을 실행하면 리모트의 내용과 내 작업내역을 머지하게 되는데 이 때 머지되었다는 커밋을 한번 더 수행해주어야 한다.\n이 경우 Merge branch &#8216;local branch name&#8217; of remote into &#8216;remote branch&#8217; 와 같은 자동 생성 커밋 메시지가 올라온다.\n머지 커밋이 불필요하다고 생각하는 경우라면\n    $> git pull &#8211;rebase\n를 사용하면 머지 커밋이 필요없다.\n***Github Client 의 Sync 기능이 내부적으로 이와 같이 동작 중임.\n",
+  "categories": [
+    "etc"
+  ],
+  "tags": [
+    "etc"
+  ],
+  "publishedDate": "2012-09-08T08:49:32",
+  "updatedAt": "2015-07-24T04:14:41",
+  "wordpressId": 70
+}

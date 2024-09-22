@@ -1,0 +1,18 @@
+{
+  "id": "ssi-resource-versioning-automation",
+  "title": "SSI 를 활용한 프론트엔드 리소스 버저닝",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "## 개요\n리소스 버저닝은 리소스 캐시를 목적으로 한다.\n리소스 캐시는 해당 파일이 변경된 경우 컨텐츠를 새로 전송(Cache Miss)하고, 변경되지 않았다면 컨텐츠를 전송하지 않는(Cache Hit)다.\n많이 사용되는 방법으로 버전이름을 쿼리스트링(Query String, GET 파라미터라고도 함)에 명시하는 방법이 있다.\n버전이름을 쿼리스트링에 명시하는 방법은 \n[gist:4754498:example-1.html]\n\r\n\t\r\n\t\r\n\n[gist:4754498:exam\n",
+  "categories": [
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2013-02-06T00:44:59",
+  "updatedAt": "2015-07-24T04:14:28",
+  "wordpressId": 75
+}

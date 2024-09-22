@@ -1,0 +1,18 @@
+{
+  "id": "docker-add-nocache",
+  "title": "Dockerfile – ADD 를 통해 build 캐시막기",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "Dockerfile 을 수정하고 다시 빌드할 때 cache 덕분에 빠르게 재실행이 가능하다.\nDockerfile 의 명령라인이 변경되지 않으면 자동으로 캐시가 작동하게 되는데 가끔 이 기능이 불편할 때가 있다.\nNode 개발용 서버를 구축하는 중에 이런 경우를 만났다.\n&#8220;`git pull&#8220;` 을 하고, 의존성 해결을 위해 &#8220;`npm install&#8220;` 을 하는 플로우인데, &#8220;`RUN git pull&#8220;` 행이 변경되지 않으니 계속 캐시가 작동했다.\n캐시를 작동하지 않게 하는 명령을 추가하는 것에 대해 [이 곳에서](https://github.com/docker/docker/issues/1996) 계속 논의가 진행중인데, 이 이슈를 살펴보다 랜덤스트링을 추가하는 괜찮은 방법을 알게\n",
+  "categories": [
+    "dev"
+  ],
+  "tags": [
+    "Dev."
+  ],
+  "publishedDate": "2014-08-31T10:07:39",
+  "updatedAt": "2015-07-24T04:12:24",
+  "wordpressId": 90
+}

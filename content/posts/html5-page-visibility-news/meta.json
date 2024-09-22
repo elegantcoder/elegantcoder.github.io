@@ -1,0 +1,18 @@
+{
+  "id": "html5-page-visibility-news",
+  "title": "HTML5 Page Visibility API",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "## Page Visibility API\n* 브라우저에서 탭이 이동해서 안보이는 경우, 비디오는 끄고 싶다.\n* 페이지가 안보이는 중에는 이미지 로테이션을 멈춰두고 싶다.\n* 페이지가 안보이는 중에는 서버에 요청하지 않았으면 좋겠다.\n이런 경우에 사용하기 위해  Page Visibility API 스펙이 표준화되고 있습니다.\n",
+  "categories": [
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2012-08-16T00:50:03",
+  "updatedAt": "2015-07-24T04:14:48",
+  "wordpressId": 67
+}

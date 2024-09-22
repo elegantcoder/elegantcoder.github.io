@@ -1,0 +1,19 @@
+{
+  "id": "good-interaction-with-forms",
+  "title": "평범한 인터렉션, 비범한 인터렉션",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "titleImage": "itac_1_cv-1.jpg",
+  "excerpt": "![](http://elegantcoder.com/sites/default/files/itac_1_cv-1.jpg) \n여러분은 지금 어떤 자세로 이 페이지를 보고 있나요? 혹시 턱을 괴고 마우스에 손을 올리고 있지는 않은가요?\n웹서핑을 할 때 많은 시간을 마우스와 함께 합니다. 하지만 가끔 양 손 모두가 키보드 위에 올라오는 때가 있죠. 바로 양식(Form)을 입력할 때 입니다.\n양식을 채워서 로그인을 합니다.\n메일을 쓰는 것도 양식을 채우는 일 입니다.\n글을 보고 코멘트를 달아주는 것도 양식을 채움으로써 가능합니다.\n",
+  "categories": [
+    "interaction"
+  ],
+  "tags": [
+    "Interaction"
+  ],
+  "publishedDate": "2012-09-20T01:31:33",
+  "updatedAt": "2015-07-24T04:14:35",
+  "wordpressId": 73
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aws-nat-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4%ec%9d%98-%ec%84%b1%eb%8a%a5%ec%9d%80",
+  "title": "AWS NAT 인스턴스의 가성비 확인",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "titleImage": "nat-gateway-diagram.png",
+  "excerpt": "AWS의 Private Subnet에 있는 인스턴스가 외부와 통신하려면 NAT를 활용해야한다. 그렇다면 NAT인스턴스를 만들어 사용할지, NAT 게이트웨이(Gateway, 이하 GW)를 사용할지 결정해야 한다. AWS VPC 와 서브넷 VPC의 NAT Gateway 가격은 서울리전에서 $0.059 이다. 1달이 월 720시간이라면 Multiple AZ를 고려해 2개를 설치하면 월 $84.96, 약 10만원의 추가부담이 생긴다. NAT Instance로 구성한다면 EC2 1년 선결제 없는 경우의 예약 인스턴스 [&hellip;]\n",
+  "categories": [
+    "aws",
+    "dev"
+  ],
+  "tags": [
+    "aws",
+    "NAT",
+    "vpc"
+  ],
+  "publishedDate": "2019-07-09T00:42:30",
+  "updatedAt": "2020-06-30T22:49:06",
+  "wordpressId": 582
+}

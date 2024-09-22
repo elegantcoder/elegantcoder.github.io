@@ -1,0 +1,19 @@
+{
+  "id": "https-elegantcoder-com-jenkins-%ec%97%ad%ed%95%a0%ea%b8%b0%eb%b0%98-%ec%a0%84%eb%9e%b5%ec%9c%bc%eb%a1%9c-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ea%b6%8c%ed%95%9c%ec%a7%80%ec%a0%95%ed%95%98%ea%b8%b0",
+  "title": "Jenkins  역할기반 전략으로 프로젝트 권한지정하기",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "Jenkins의 Security Rule 중 Role Based 플러그인을 사용한 사용자 권한 설정을 했다. Manage Jenkins &gt; Configure Global Security 의 Authorization 에서 Role-Based Strategy를 선택한다.(Enable security 상태) 이후 &nbsp;Manage Jenkins &gt; Manage and Assign Roles 화면에서 역할을 추가하고 사용자에 역할을 지정할 수 있다. Manage Roles 역할을 추가, 편집, 삭제한다. 전역(Global)과 프로젝트별 역할이 있다. Assign Roles Manage [&hellip;]\n",
+  "categories": [
+    "dev"
+  ],
+  "tags": [
+    "jenkins",
+    "TIL"
+  ],
+  "publishedDate": "2020-02-14T00:39:17",
+  "updatedAt": "2020-02-14T00:52:00",
+  "wordpressId": 633
+}

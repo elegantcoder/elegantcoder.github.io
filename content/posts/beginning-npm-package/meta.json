@@ -1,0 +1,17 @@
+{
+  "id": "beginning-npm-package",
+  "title": "슬쩍 떠보는 npm 과 package.json",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "titleImage": "npm-logo.png",
+  "excerpt": "GruntJS 와 같이 Node.js 로 만들어진 유틸리티들은 npm 을 통해 설치하고 사용하는 것이 쉽고 편리하다. 하지만 Node.js 를 깊이 공부해보려는 목적이 아니라면 굳이 npm 에 대해 깊이 알 필요는 없다. 그런 사람들과 입문자들을 위해 npm 을 통한 패키지의 설치/제거방법과 package.json 에 대해 간단히 알아보려고 한다. npm 는 Node Package Manager 의 약자이다. 보통 npm 은 [&hellip;]\n",
+  "categories": [
+    "dev"
+  ],
+  "tags": [],
+  "publishedDate": "2015-07-21T08:13:44",
+  "updatedAt": "2015-07-27T03:12:24",
+  "wordpressId": 472
+}

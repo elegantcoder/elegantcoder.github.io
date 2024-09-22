@@ -1,0 +1,19 @@
+{
+  "id": "label-ui",
+  "title": "입력 필드 내 텍스트 UI, 어떻게 구현하는 것이 좋을까?",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "titleImage": "paran-login.png",
+  "excerpt": "요즘 많이 사용하는 UI 중, 입력 필드 내에 입력정보 텍스트를 표시하는 UI 가 있습니다. 아무래도 placeholder속성이 구현되었을 때와 비슷한 모습을 하고 있어서 placeholder 로 오인되는 경우가 있는 것 같습니다.\n\n",
+  "categories": [
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2012-07-14T06:13:39",
+  "updatedAt": "2015-08-07T15:45:43",
+  "wordpressId": 66
+}

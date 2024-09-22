@@ -1,0 +1,18 @@
+{
+  "id": "weinre",
+  "title": "모바일 웹 디버깅 툴 – Weinre",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "국내 모바일 브라우저 시장 점유율은 2011년 12월 현재&nbsp;Webkit&nbsp;계열이 99% 이상의 점유율을 가지고 있다(Statcounter 기준, Android, iPhone, iPod Touch, Dolfin 을 합한 수치).\n하지만 Webkit 계열의 브라우저로 천하통일되었더라도 모바일 사이트를 구축하는 것은 여전히 쉽지 않은 일이다.\n단말기가 다양할 뿐 아니라 단말기마다 사용된 웹킷 브라우저 버전이 각각 다르고, 단말기에 적용된 OS 버전에 따라서도 다르다. 심지어는 제조사의 커스터마이징이 이루어진 경우도 심심치 않게 볼 수 있다. 같은 회사에서 나온 라인업(갤럭시 S, 갤럭시 K 등) 에서도 다르게 동작하는 경우마저 있다.&nbsp;\n",
+  "categories": [
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2012-01-17T01:38:42",
+  "updatedAt": "2015-07-24T04:17:01",
+  "wordpressId": 55
+}

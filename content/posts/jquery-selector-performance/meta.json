@@ -1,0 +1,18 @@
+{
+  "id": "jquery-selector-performance",
+  "title": "jQuery 요소 선택의 성능문제, 셀렉터와 탐색 중 어떤 것이 더 빠를까?",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "스택오버플로를 둘러보다 아래와 같은 질문을 찾았다.\n[Is jQuery traversal preferred over selectors?](http://stackoverflow.com/questions/15216838/is-jquery-traversal-preferred-over-selectors)\njQuery 에서 요소 선택의 성능문제를 묻는 질문인데, \n    $(&#8220;#vacations&#8221;).find(&#8220;li&#8221;).last();\n    $(&#8220;#vacations li:last&#8221;);\n이 두 가지중 어떤 것이 더 빠를까?\n",
+  "categories": [
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2013-03-08T08:02:39",
+  "updatedAt": "2015-07-24T04:13:42",
+  "wordpressId": 81
+}

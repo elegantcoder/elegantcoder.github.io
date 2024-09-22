@@ -1,0 +1,18 @@
+{
+  "id": "virtualbox-vagrant-disk-io-%ec%84%b1%eb%8a%a5%ea%b0%9c%ec%84%a0-%eb%b0%a9%eb%b2%95",
+  "title": "VirtualBox – Vagrant Disk IO 성능개선 방법",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "* VirtualBox 에서 제공하는 공유폴더 기능은 심각한 퍼포먼스 저하가 있다.\n",
+  "categories": [
+    "etc"
+  ],
+  "tags": [
+    "etc"
+  ],
+  "publishedDate": "2014-04-26T08:02:40",
+  "updatedAt": "2015-07-24T04:12:39",
+  "wordpressId": 87
+}

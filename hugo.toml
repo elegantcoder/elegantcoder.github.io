@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'ElegantCoder'
+theme = 'hugo-dusk'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[markup.goldmark.renderer]
+unsafe= true

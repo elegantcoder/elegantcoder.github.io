@@ -1,0 +1,19 @@
+{
+  "id": "js-typeof-alternative",
+  "title": "자바스크립트의 변수형을 알아내는 다른 방법",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "\tJavaScript 의 변수형을 알아내는 데는 일반적으로 typeof 를 사용한다. 하지만 toString 을 사용하면 어떤 객체의 인스턴스인지까지 한번에 알아낼 수 있다.\n## JavaScript 의 변수형을 알아내는 데는 일반적으로 typeof 를 사용한다.\n이 방법이 가장 간단하고 일반적인 방법이다.\ntypeof 가 나타낼 수 있는 변수형은 아래와 같다.\nundefined, object, boolean, number, string, function, object\ntypeof 가 변수에 대한 기본적인 호기심을 해결해주긴 하지만 몇가지 모자란 점이 있다.\n",
+  "categories": [
+    "dev",
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2013-03-23T14:10:55",
+  "updatedAt": "2015-07-24T04:13:35",
+  "wordpressId": 83
+}

@@ -1,0 +1,18 @@
+{
+  "id": "git-hook-in-hosting",
+  "title": "웹호스팅환경에서 git push 때 자동으로 pull 하기",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "__ssh, bare repository, post-receive hook 을 사용해 로컬저장소에서 push 하면  호스팅 서버에서 자동으로 pull 받을 수 있는 환경을 꾸며봅니다.__\n[Bitbucket](http://bitbucket.org) 에서 private 저장소를 만들어 버전관리를 하고 있는 프로젝트가 있다. 웹 프로젝트이고 이 프로젝트의 결과물은 Cafe24 에 월 500원짜리 웹호스팅에서 서비스된다.\n처음엔 remote origin 을 Bitbucket 으로 두고, 이 저장소를 통해 로컬과 호스팅 서버간의 통신을 했다. 소스를 고치고 push 하고, 호스팅서버의 커맨드라인에서 pull 을 해야했으니 매우 불편했다.\n",
+  "categories": [
+    "etc"
+  ],
+  "tags": [
+    "etc"
+  ],
+  "publishedDate": "2013-03-13T14:26:51",
+  "updatedAt": "2015-07-24T04:13:38",
+  "wordpressId": 82
+}

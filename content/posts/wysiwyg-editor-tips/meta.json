@@ -1,0 +1,18 @@
+{
+  "id": "wysiwyg-editor-tips",
+  "title": "위지윅(WYSIWYG) 에디터를 만들고자 할 때 고려할 사항",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "원문은 http://bit.ly/ksonHb 에서 보실 수 있습니다.\n1. iframe docs vs. contenteditable divs\n위지윅에디터를 제작하고자 할 때 iframe을 사용할 지, 어느 엘리먼트에나 존재하는 contenteditable 속성을 이용할 지 고민될 수 있습니다. 답변자는 iframe을 추천합니다. 그 이유로:&nbsp;\niframe내에서는 문서 타입, CSS, script 등을 이용해 완전한 제어를 할 수 있습니다. 여러 다른 페이지내에서 통일된 액션과 모습을 보여주는 데에 꼭 필요합니다.\n특히 Firefox에서 contenteditable 속성을 가진 엘리먼트가 매우 버그가 많은데, 이것은 몇 년 전부터 있어왔고 아주 잘 동작하는 document의 designMode속성에 비해(pre-1.0 부터인가? 확실하지 않습니다) 이 속성이 비교적 최근에(3.0버전부터) 도입되었기 때문입니다.\n&nbsp;\n2.\n",
+  "categories": [
+    "%eb%b2%88%ec%97%ad"
+  ],
+  "tags": [
+    "번역"
+  ],
+  "publishedDate": "2011-05-08T13:16:04",
+  "updatedAt": "2015-07-24T04:18:02",
+  "wordpressId": 2
+}

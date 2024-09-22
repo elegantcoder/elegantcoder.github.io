@@ -1,0 +1,18 @@
+{
+  "id": "useful-semantic-url",
+  "title": "Semantic URL 를 프로젝트 내 소통수단으로!",
+  "status": "published",
+  "authors": [
+    "elegantcoder"
+  ],
+  "excerpt": "Semantic URL이란?\nSemantic URL 은 Clean URL, Fancy URL, Rewritten URL 으로 불리기도 합니다. 위키피디아에서는&nbsp;Semantic URL과&nbsp;Clean URL을 각각 다른 용어로 정의하고 있기는 하지만 내용을 살펴보면 근본적으로는 비슷합니다.&nbsp;\n즉, 비전문가(사용자)에게 친숙한, (의미를 표현하는)구조적인 URL입니다.&nbsp;\n",
+  "categories": [
+    "front-end"
+  ],
+  "tags": [
+    "Front-end"
+  ],
+  "publishedDate": "2011-12-13T14:48:08",
+  "updatedAt": "2015-07-24T04:17:08",
+  "wordpressId": 41
+}
