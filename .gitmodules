@@ -1,3 +1,4 @@
 [submodule "themes/hugo-dusk"]
 	path = themes/hugo-dusk
-	url = https://github.com/gyorb/hugo-dusk
+	url = ../hugo-dusk
+	branch = custom
