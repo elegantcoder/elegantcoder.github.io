@@ -3,9 +3,23 @@ languageCode = 'en-us'
 title = 'ElegantCoder'
 theme = 'hugo-dusk'
 
+googleAnalytics = "G-GBRP3965ME"
+
 [taxonomies]
   tag = 'tags'
   category = 'categories'
 
 [markup.goldmark.renderer]
 unsafe= true
+
+
+
+[params]
+  github = "elegantcoder"
+  twitter = "elegantcoder_"
+  linkedin = "elegantcoder"
+  email = "elegantcoder@gmail.com"
+  theme_colors = "cold-dark"
+
+[params.author]
+  name = "ElegantCoder"
