@@ -12,6 +12,7 @@ iframe내에서는 문서 타입, CSS, script 등을 이용해 완전한 제어�
 2.
 "
 url: "/posts/wysiwyg-editor-tips"
+aliases: ["/wysiwyg-editor-tips"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:18:02

@@ -11,6 +11,7 @@ summary: "![](http://elegantcoder.com/sites/default/files/itac_1_cv-1.jpg)
 글을 보고 코멘트를 달아주는 것도 양식을 채움으로써 가능합니다.
 "
 url: "/posts/good-interaction-with-forms"
+aliases: ["/good-interaction-with-forms"]
 titleImage: "itac_1_cv-1.jpg"
 draft: false
 lastmod: 2015-07-24T04:14:35

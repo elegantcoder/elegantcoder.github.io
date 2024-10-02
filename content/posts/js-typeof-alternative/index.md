@@ -11,6 +11,7 @@ undefined, object, boolean, number, string, function, object
 typeof 가 변수에 대한 기본적인 호기심을 해결해주긴 하지만 몇가지 모자란 점이 있다.
 "
 url: "/posts/js-typeof-alternative"
+aliases: ["/js-typeof-alternative"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:13:35

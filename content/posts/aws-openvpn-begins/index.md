@@ -6,6 +6,7 @@ publishDate: 2018-11-17T16:55:43
 summary: "근무중인 세븐핀테크는 설립 때부터 리모트 근무에 높은 가치를 두고 실천해오고 있다. 각 멤버는 인천 송도, 천안, 제주에서 근무하고 있다. 세븐핀테크는 주식 고수의 실시간 계좌를 열람하고 거래 알림을 받는 모바일 앱 월스트릿파이터를 개발, 운영하고 있다. 집이나 도서관, 카페 등 본인이 편한 곳에서 근무하기 때문에 모든 사내 리소스는 물리적인 공간에 두지 않으며 클라우드(주로 AWS)에서 운영된다. 그러나 보안 [&hellip;]
 "
 url: "/posts/aws-openvpn-begins"
+aliases: ["/aws-openvpn-begins"]
 titleImage: "Untitled-copy.jpg"
 draft: false
 lastmod: 2020-06-30T22:49:06

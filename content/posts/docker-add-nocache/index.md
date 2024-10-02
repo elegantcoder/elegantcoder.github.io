@@ -10,6 +10,7 @@ Node 개발용 서버를 구축하는 중에 이런 경우를 만났다.
 캐시를 작동하지 않게 하는 명령을 추가하는 것에 대해 [이 곳에서](https://github.com/docker/docker/issues/1996) 계속 논의가 진행중인데, 이 이슈를 살펴보다 랜덤스트링을 추가하는 괜찮은 방법을 알게
 "
 url: "/posts/docker-add-nocache"
+aliases: ["/docker-add-nocache"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:12:24

@@ -10,6 +10,7 @@ summary: "## Page Visibility API
 이런 경우에 사용하기 위해  Page Visibility API 스펙이 표준화되고 있습니다.
 "
 url: "/posts/html5-page-visibility-news"
+aliases: ["/html5-page-visibility-news"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:48

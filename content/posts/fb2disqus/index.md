@@ -8,6 +8,7 @@ summary: "페이스북의 Social comment 를 잘 사용하고 있었지만, Disq
 블로그를 새로 꾸미면서 블로그 글 영역을 가변폭으로 만들었는데 Facebook 의 social comment 는 고정폭 만 지원하고 있다.
 "
 url: "/posts/fb2disqus"
+aliases: ["/fb2disqus"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:25

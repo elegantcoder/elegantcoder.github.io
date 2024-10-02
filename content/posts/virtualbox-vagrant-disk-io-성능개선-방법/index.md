@@ -6,6 +6,7 @@ publishDate: 2014-04-26T08:02:40
 summary: "* VirtualBox 에서 제공하는 공유폴더 기능은 심각한 퍼포먼스 저하가 있다.
 "
 url: "/posts/virtualbox-vagrant-disk-io-성능개선-방법"
+aliases: ["/virtualbox-vagrant-disk-io-성능개선-방법"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:12:39

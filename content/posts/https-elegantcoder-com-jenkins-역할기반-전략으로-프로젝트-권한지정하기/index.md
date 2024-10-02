@@ -6,6 +6,7 @@ publishDate: 2020-02-14T00:39:17
 summary: "Jenkins의 Security Rule 중 Role Based 플러그인을 사용한 사용자 권한 설정을 했다. Manage Jenkins &gt; Configure Global Security 의 Authorization 에서 Role-Based Strategy를 선택한다.(Enable security 상태) 이후 &nbsp;Manage Jenkins &gt; Manage and Assign Roles 화면에서 역할을 추가하고 사용자에 역할을 지정할 수 있다. Manage Roles 역할을 추가, 편집, 삭제한다. 전역(Global)과 프로젝트별 역할이 있다. Assign Roles Manage [&hellip;]
 "
 url: "/posts/https-elegantcoder-com-jenkins-역할기반-전략으로-프로젝트-권한지정하기"
+aliases: ["/https-elegantcoder-com-jenkins-역할기반-전략으로-프로젝트-권한지정하기"]
 titleImage: "undefined"
 draft: false
 lastmod: 2020-02-14T00:52:00

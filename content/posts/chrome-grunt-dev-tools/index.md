@@ -6,6 +6,7 @@ publishDate: 2015-06-03T15:29:26
 summary: "KStyleTrip 에서는 프론트엔드 영역에서 디자이너와 개발자가 협업하고 있다. 나는 사실 HTML CSS 를 어느 수준으로 다루기는 하지만 퍼블리셔는 아니어서 픽셀 단위의 디테일을 구현하는데는 어려움이 있다. 디자이너는 디자이너 대로 원하는 만큼의 디테일을 구현하기 어려워하는 내 모습을 보기 안타까워 했다. 그래서 현실적인 수준에서 협업을 시작했다. 개발자가 디자인을 보고 큰 덩이에 대해 마크업과 CSS 처리를 하면 디자이너가 원하는 [&hellip;]
 "
 url: "/posts/chrome-grunt-dev-tools"
+aliases: ["/chrome-grunt-dev-tools"]
 titleImage: "Screen-Shot-2015-06-04-at-12.16.42-AM.png"
 draft: false
 lastmod: 2015-07-24T04:11:24

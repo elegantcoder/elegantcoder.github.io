@@ -6,6 +6,7 @@ publishDate: 2015-06-17T17:44:37
 summary: "TypeError: Cannot read property ‘..&#8217; of undefined 는 매우 흔히 발생하고 오랫동안 개발자를 괴롭혀온 에러다. 이 에러는 오브젝트의 프로퍼티에 접근하려 하는데 그 오브젝트가 undefined 인 경우 발생한다. 즉, 아래 같은 상황이다. &gt; var opt = {}; undefined &gt; opt.a.b.c.d TypeError: Cannot read property &#8216;b&#8217; of undefined &#8230; &gt; 특히 API 연동처럼 외부에서 생성된 오브젝트를 가져와 [&hellip;]
 "
 url: "/posts/js-getobject"
+aliases: ["/js-getobject"]
 titleImage: "javascript.png"
 draft: false
 lastmod: 2015-08-06T07:21:17

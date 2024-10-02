@@ -6,6 +6,7 @@ publishDate: 2015-05-20T11:49:12
 summary: "Git 을 사용하기 시작한지가 벌써 3년이다. 한번은 문상환님하고 Git 의 Merge branch 커밋에 대해 이야기를 한 적이 있다. 대화가 진행될 수록 Rebase 와 Merge 를 머리로만 알고 있을 뿐, 제대로 이해하지 못하단 걸 알게됐다. 일종의 산파법이랄까. Git 에서 코드를 합치는 방법에 대해 탕수육의 뿌먹파와 찍먹파처럼 Rebase 파와 Merging 파가 있다. 나는 Merging 파였다. Rebase 에 [&hellip;]
 "
 url: "/posts/git-merge-or-rebase"
+aliases: ["/git-merge-or-rebase"]
 titleImage: "mergerebase.png"
 draft: false
 lastmod: 2016-06-10T05:05:00

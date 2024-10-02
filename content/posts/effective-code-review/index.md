@@ -6,6 +6,7 @@ publishDate: 2013-11-07T09:27:30
 summary: ">한빛미디어에서 당신의 동료가 더 효과적으로 코드리뷰를 할 수 있게 만드는 여섯 가지 방법 라는 좋은 글을 접했습니다. 그런데 읽다보니 번역문이 이해하기 어려운 점이 많아서 원문을 다시 읽게되었고 요약하게 되었습니다.
 "
 url: "/posts/effective-code-review"
+aliases: ["/effective-code-review"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:12:49

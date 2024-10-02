@@ -9,6 +9,7 @@ summary: "어떤 코드를 살펴보면 자바스크립트 파일이 세미콜�
 이 세미콜론은 자바스크립트 파일을 합칠 때(concatenating) 안정성에 도움이 된다.
 "
 url: "/posts/js-starts-with-semicolon"
+aliases: ["/js-starts-with-semicolon"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:20

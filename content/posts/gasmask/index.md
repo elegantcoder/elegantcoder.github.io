@@ -7,6 +7,7 @@ summary: "
 
 "
 url: "/posts/gasmask"
+aliases: ["/gasmask"]
 titleImage: "applicationIcon.png"
 draft: false
 lastmod: 2015-07-24T04:17:46

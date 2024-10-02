@@ -7,6 +7,7 @@ summary: "요즘 많이 사용하는 UI 중, 입력 필드 내에 입력정보 �
 
 "
 url: "/posts/label-ui"
+aliases: ["/label-ui"]
 titleImage: "paran-login.png"
 draft: false
 lastmod: 2015-08-07T15:45:43

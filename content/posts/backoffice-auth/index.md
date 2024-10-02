@@ -10,6 +10,7 @@ summary: "![백오피스 로그인 화면](/sites/default/files/backoffice_login
 2.
 "
 url: "/posts/backoffice-auth"
+aliases: ["/backoffice-auth"]
 titleImage: "backoffice_login.png"
 draft: false
 lastmod: 2015-07-24T04:12:30

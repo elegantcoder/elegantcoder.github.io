@@ -8,6 +8,7 @@ Semantic URL 은 Clean URL, Fancy URL, Rewritten URL 으로 불리기도 합니�
 즉, 비전문가(사용자)에게 친숙한, (의미를 표현하는)구조적인 URL입니다.&nbsp;
 "
 url: "/posts/useful-semantic-url"
+aliases: ["/useful-semantic-url"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:17:08

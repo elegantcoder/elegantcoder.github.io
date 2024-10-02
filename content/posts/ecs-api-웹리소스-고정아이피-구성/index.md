@@ -6,6 +6,7 @@ publishDate: 2020-06-30T22:28:02
 summary: "ECS로 구성된 애플리케이션의 웹 리소스의 고정아이피 구성이 필요했다. 가끔 유용하게 활용할 수 있는 사례라 구성도를 따로 그려봤다. 문제정의 애플리케이션 서버는 ECS &#8211; Fargate &#8211; ALB 환경으로 구축 S3에 웹 리소스가 배포됨. 애플리케이션 서버와 웹리소스에 고정아이피 주소 필요 백엔드와의 연결은 HTTP만 사용해도 됨. 해결 Network Load Balancer에 고정아이피를 설정 NLB는 포트라우팅만 지원하므로 Nginx의 virtual server 설정으로 [&hellip;]
 "
 url: "/posts/ecs-api-웹리소스-고정아이피-구성"
+aliases: ["/ecs-api-웹리소스-고정아이피-구성"]
 titleImage: "undefined"
 draft: false
 lastmod: 2020-07-01T01:13:47

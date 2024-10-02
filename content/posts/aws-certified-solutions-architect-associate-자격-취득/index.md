@@ -6,6 +6,7 @@ publishDate: 2021-01-16T22:32:52
 summary: "꾸준히 AWS관련 업무를 맡아왔다.&nbsp;업무로 다뤄&nbsp;본 영역은 잘 알지만 다른 영역들은 전혀 모르는 부분들이 많았다. 매뉴얼을 읽을 때마다 전체를 조망하는데 어려움을 느꼈고 한번쯤은 몰입해 살펴봐야겠다고 생각해왔다. 2020년 11월 쯤 되니 한 해가 가는 것에 대한 조바심이 들었다. 가시적인,&nbsp;스스로를 위한 성과가 필요하다고 생각했다. 그래서 미뤄뒀던 AWS SAA자격 취득을 준비했다. 학습자료 우선 예전 할인 때 사놓은 Udemy의 관련강의를 [&hellip;]
 "
 url: "/posts/aws-certified-solutions-architect-associate-자격-취득"
+aliases: ["/aws-certified-solutions-architect-associate-자격-취득"]
 titleImage: "AWS-SolArchitect-Associate-2020.png"
 draft: false
 lastmod: 2021-01-18T01:28:11

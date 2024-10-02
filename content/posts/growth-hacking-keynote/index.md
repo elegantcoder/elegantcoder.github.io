@@ -6,6 +6,7 @@ publishDate: 2015-06-09T16:40:52
 summary: "재직하고 있는 KStyleTrip 에서 그로스 해킹(Growth Hacking) 관련 세미나를 했다. 그로스 해킹에 대해 위키피디아에서는 이렇게 정의한다. 그로스해킹이란 기술기반 스타트업에서 개발된 마케팅 기법으로 (기존의 것과 다른) 창의적인 방법, 분석적인 사고, 소셜 지표 등을 통해 제품을 노출하고 판매하는 것이다. (Growth hacking is a marketing technique developed by technology startups which uses creativity, analytical thinking, and social metrics [&hellip;]
 "
 url: "/posts/growth-hacking-keynote"
+aliases: ["/growth-hacking-keynote"]
 titleImage: "8966189318_1.jpg"
 draft: false
 lastmod: 2015-07-24T04:11:21

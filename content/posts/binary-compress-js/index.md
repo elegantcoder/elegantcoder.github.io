@@ -6,6 +6,7 @@ publishDate: 2011-05-08T14:04:32
 summary: "원문은&nbsp;http://j.mp/gl4jDq 에서 보실 수 있습니다. 오역의 가능성이 있으니 원문과 비교하며 보세요~
 "
 url: "/posts/binary-compress-js"
+aliases: ["/binary-compress-js"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:17:57

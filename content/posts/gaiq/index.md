@@ -8,6 +8,7 @@ GA 강사들의 프로필을 보다보니 Google 애널리틱스 공인 전문�
 그렇지 않아도 GA 와는 인연이 있다. 예전 KTH 에 입사해 처음 작업한 일이 바로 이벤트 측정 코드를 곳곳에 심는 일이었다. 그렇게 대략 200개 정도의 이벤트 코드를 꽂았다.
 "
 url: "/posts/gaiq"
+aliases: ["/gaiq"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:12:20

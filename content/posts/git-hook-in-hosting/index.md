@@ -8,6 +8,7 @@ summary: "__ssh, bare repository, post-receive hook 을 사용해 로컬저장�
 처음엔 remote origin 을 Bitbucket 으로 두고, 이 저장소를 통해 로컬과 호스팅 서버간의 통신을 했다. 소스를 고치고 push 하고, 호스팅서버의 커맨드라인에서 pull 을 해야했으니 매우 불편했다.
 "
 url: "/posts/git-hook-in-hosting"
+aliases: ["/git-hook-in-hosting"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:13:38

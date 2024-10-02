@@ -6,6 +6,7 @@ publishDate: 2020-04-30T14:02:18
 summary: "Docker 컨테이너는 Entrypoint를 가지고 있어서, 컨테이너를 하나의 실행파일처럼 동작할 수 있게 해준다. An ENTRYPOINT allows you to configure a container that will run as an executable. https://docs.docker.com/engine/reference/builder/#entrypoint 이를 이용해 때때로 활용하는 기법이 있는데, Entrypoint를 쉘 함수로 엮어 사용하는 방법이다. 최근 Jenkins에 AWSCLI v2를 사용해야할 일이 있었다. 이미 aws v1이 시스템 전체에 설치되어 운영되고 있기 때문에 [&hellip;]
 "
 url: "/posts/docker-entrypoint와-쉘-함수의-사용"
+aliases: ["/docker-entrypoint와-쉘-함수의-사용"]
 titleImage: "undefined"
 draft: false
 lastmod: 2020-05-11T23:45:09

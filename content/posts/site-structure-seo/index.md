@@ -6,6 +6,7 @@ publishDate: 2011-03-06T13:20:45
 summary: "원문: Intelligent site structure for better SEO!
 "
 url: "/posts/site-structure-seo"
+aliases: ["/site-structure-seo"]
 titleImage: "sitestructure-2.jpg"
 draft: false
 lastmod: 2015-07-24T04:18:07

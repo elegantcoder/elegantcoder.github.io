@@ -13,6 +13,7 @@ PHP, ASP, JSP 등도 서버사이드 스크립트 언어의 범주에 들어가�
 일반적으로 많이 사용하는 지시자들 입니다.
 "
 url: "/posts/ssi"
+aliases: ["/ssi"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:44

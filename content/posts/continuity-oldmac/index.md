@@ -6,6 +6,7 @@ publishDate: 2015-07-10T05:06:05
 summary: "OSX Yosemite(v10.10) 이 되면서 혁신적이었다고 평가받는 것은 바로 연속성 기능 이다. 이 기능은 맥과 iOS 를 오가며 실행하던 애플리케이션을 끊김없이 실행할 수 있는 기능이다. 현재 가지고 있는 맥북은 Macbook Pro 15” 2011 Early CTO 버전이다. 물론 이미 노쇠했지만 개인적인 사정으로 은퇴하지 못하고 꾸준히 부품을 교체하며 버티고 있다. 하지만 현재 가지고 있는 모델이 연속성 기능이 제대로 [&hellip;]
 "
 url: "/posts/continuity-oldmac"
+aliases: ["/continuity-oldmac"]
 titleImage: "hero_ipadmini_iphone_large.png"
 draft: false
 lastmod: 2015-07-24T04:10:39

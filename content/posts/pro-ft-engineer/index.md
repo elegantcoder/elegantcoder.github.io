@@ -8,6 +8,7 @@ summary: "
 오역/오탈자 신고는 메일로 해주세요.
 "
 url: "/posts/pro-ft-engineer"
+aliases: ["/pro-ft-engineer"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:17:51

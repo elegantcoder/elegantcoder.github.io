@@ -13,6 +13,7 @@ summary: "## Git Pull 시에 머지 커밋하지 않기
 ***Github Client 의 Sync 기능이 내부적으로 이와 같이 동작 중임.
 "
 url: "/posts/git-tips-1"
+aliases: ["/git-tips-1"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:41

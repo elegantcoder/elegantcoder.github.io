@@ -6,6 +6,7 @@ publishDate: 2019-07-03T11:55:07
 summary: "AWS 의 VPC는 리전 내에 위치하고 서브넷은 AZ내에 위치한다. 한 VPC에 AZ에 대해 여러 서브넷을 둬서 고가용성(HA)를 확보할 수 있다. 서브넷의 통신 방법은 VPC의 라우팅 규칙(Route Tables)을 따른다. 라우팅 규칙은 아이피 대역(CIDR)에 따라 타깃을 설정할 수 있고, 서브넷에 붙이는(associate) 방식으로 서브넷의 통신 방법을 설정할 수 있다. 서브넷과 라우팅 규칙은 1:n 관계이다. 각 서브넷은 한개의 라우팅 [&hellip;]
 "
 url: "/posts/aws-vpc-와-서브넷"
+aliases: ["/aws-vpc-와-서브넷"]
 titleImage: "Amazon-VPC_light-bg@4x.png"
 draft: false
 lastmod: 2020-06-30T22:49:06

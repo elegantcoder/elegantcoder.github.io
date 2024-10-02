@@ -9,6 +9,7 @@ summary: "최근에 한 웹앱 프로젝트를 완료했다. 이 프로젝트를
 램드라이브를 사용하게 되면서 파일이름을 검색하든 파일 내부를 검색하든 버벅거림이 전혀 없고 아주 만족하며 사용중이다.
 "
 url: "/posts/ramdisk"
+aliases: ["/ramdisk"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:13:32

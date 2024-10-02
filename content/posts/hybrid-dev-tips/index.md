@@ -9,6 +9,7 @@ summary: "3년 정도 하이브리드 플랫폼들을 경험했다. 하이브리
 가능하다면 독립된 API를 갖는 게 좋다. 하이브리드 앱은 API와 통신이 많은 부분을 차지한다. 끊임없이 개발되고 있는 와중에 개발 중인 API가 안정적이기를 바라는 것은 무리다.
 "
 url: "/posts/hybrid-dev-tips"
+aliases: ["/hybrid-dev-tips"]
 titleImage: "undefined"
 draft: false
 lastmod: 2020-04-09T17:55:24

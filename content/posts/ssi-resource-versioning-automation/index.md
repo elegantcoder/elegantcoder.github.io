@@ -7,15 +7,9 @@ summary: "## 개요
 리소스 버저닝은 리소스 캐시를 목적으로 한다.
 리소스 캐시는 해당 파일이 변경된 경우 컨텐츠를 새로 전송(Cache Miss)하고, 변경되지 않았다면 컨텐츠를 전송하지 않는(Cache Hit)다.
 많이 사용되는 방법으로 버전이름을 쿼리스트링(Query String, GET 파라미터라고도 함)에 명시하는 방법이 있다.
-버전이름을 쿼리스트링에 명시하는 방법은 
-[gist:4754498:example-1.html]
-
-	
-	
-
-[gist:4754498:exam
-"
+버전이름을 쿼리스트링에 명시하는 방법은"
 url: "/posts/ssi-resource-versioning-automation"
+aliases: ["/ssi-resource-versioning-automation"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:28

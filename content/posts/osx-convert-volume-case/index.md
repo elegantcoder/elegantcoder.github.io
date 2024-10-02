@@ -6,6 +6,7 @@ publishDate: 2015-06-01T13:20:31
 summary: "최근 들어온 정보에 따르면 El Capitan 에서는 HFS+ 의 Case Sensitive 볼륨을 만들 수 없게 되었다고 합니다. 자세한 사항은 정식버전 출시 후 업데이트 하겠습니다. OS X 디스크 볼륨은 파일의 대소문자를 구분하지 않는(Case Insensitive) 것이 기본값이다. 하지만 주 업무가 리눅스 서버에 설치되는 프로그램들을 만들다보니 가끔 파일 이름에서의 실수가 발생하는 경우가 있었다. 예를들어 파일이름은 foo.json 인데 프로그램에선 [&hellip;]
 "
 url: "/posts/osx-convert-volume-case"
+aliases: ["/osx-convert-volume-case"]
 titleImage: "15DCF2DB-C1B4-403B-B8CB-FFEDACCD0CD5.png"
 draft: false
 lastmod: 2015-07-24T04:11:28

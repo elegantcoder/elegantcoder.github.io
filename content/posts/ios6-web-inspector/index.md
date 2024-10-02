@@ -6,6 +6,7 @@ publishDate: 2012-09-10T01:29:39
 summary: "차기 아이폰 출시일이 9월 12일로 예상되고 있습니다. 아울러 iOS6도 출시될 텐데요. 
 "
 url: "/posts/ios6-web-inspector"
+aliases: ["/ios6-web-inspector"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:38

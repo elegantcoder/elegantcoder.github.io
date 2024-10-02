@@ -15,6 +15,7 @@ summary: "xguru님의 이번 주 기술뉴스에 포함된 &nbsp;&#8220;회원�
 4.
 "
 url: "/posts/signup-process"
+aliases: ["/signup-process"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:18:11

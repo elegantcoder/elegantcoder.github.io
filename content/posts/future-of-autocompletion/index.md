@@ -9,6 +9,7 @@ summary: "Form element 에 autocomplete 기능이 소개된 것은 1999년 Inter
 1. 첫 8글자가 &#8220;section-&#8221; 으로 시작하는 경우 필드가 이름을 가진 그룹에 속함을 나타낼 수 있다.
 "
 url: "/posts/future-of-autocompletion"
+aliases: ["/future-of-autocompletion"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:14:32

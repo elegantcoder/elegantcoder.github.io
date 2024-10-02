@@ -11,6 +11,7 @@ jQuery 에서 요소 선택의 성능문제를 묻는 질문인데,
 이 두 가지중 어떤 것이 더 빠를까?
 "
 url: "/posts/jquery-selector-performance"
+aliases: ["/jquery-selector-performance"]
 titleImage: "undefined"
 draft: false
 lastmod: 2015-07-24T04:13:42
